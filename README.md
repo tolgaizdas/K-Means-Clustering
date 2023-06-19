@@ -7,4 +7,4 @@ A Java program which applies k-means-clustering algorithm to the coordinates giv
 
 *Sample output for given "points.csv" file (iteration: 100, center: 10):*
 
-![kmc](https://github.com/tolgaizdas/K-Means-Clustering/assets/48412999/ad8b47cd-90fe-442f-87ce-3d825288a382)
+![kmc](images/kmc.jpeg)
